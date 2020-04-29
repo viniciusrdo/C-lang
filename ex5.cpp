@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Escreva um programa que contenha duas variáveis inteiras. Leia essas variáveis do teclado.
+//Em seguida, compare seus endereços e exiba o conteúdo do maior endereço. 
 main(void){
 	
 	int a = 00, b = 555, *pa, *pb;
